@@ -3,5 +3,5 @@ Properties Price Prevision
 
 This repository is an exercise using Linear Regression.
 
-Dataset vendas.csv: Properati - Old Brazilian dataset about properties features.
+Dataset sales_1.csv: Properati - 2017 Brazilian dataset about properties features.
 
